@@ -5,6 +5,7 @@ A data analysis of citibikes bike trips usage in New York to review it's potenti
 
 # Resources
 Software: Tableau public, Jupyter Notebooks.
+
 Tableau Interactive Storyboard: https://public.tableau.com/app/profile/anna.l2574/viz/Challenge_16276765107480/Story1?publish=yes
 
 Data: Citibike 2019 csv data.
