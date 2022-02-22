@@ -3,6 +3,8 @@
 # Overview of the analysis
 A data analysis of citibikes bike trips usage in New York to review it's potential expansion to have the bike-sharing program in Des Moines.
 
+![image](https://user-images.githubusercontent.com/81877387/155235247-5e2445c9-9040-44c8-b4c7-8a0d8ea8835d.png)
+
 # Resources
 Software: Tableau public, Jupyter Notebooks.
 
